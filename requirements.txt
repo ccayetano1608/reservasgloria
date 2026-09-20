@@ -1,0 +1,9 @@
+# Sistema de Solicitud de Reservas y Despacho
+# Servidor Python 3 para Ejecución Remota por IP
+#
+# NOTA: El servidor 'server.py' utiliza EXCLUSIVAMENTE la biblioteca estándar
+# de Python 3 (http.server, socketserver, urllib, json, zipfile, threading, queue).
+# NO requiere instalar ninguna dependencia obligatoria para funcionar.
+#
+# Dependencias opcionales de desarrollo o aceleración:
+# openpyxl>=3.1.0

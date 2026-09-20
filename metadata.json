@@ -1,0 +1,7 @@
+{
+  "name": "Sistema de Solicitud de Reservas",
+  "description": "Plataforma en tiempo real para gestión y despacho de solicitudes de reservas con marcas de tiempo automáticas, sincronización en Excel y control de permisos por usuario.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

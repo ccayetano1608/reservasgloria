@@ -1,0 +1,62 @@
+[
+  {
+    "id": "res-1789924954716",
+    "numeroReserva": "123",
+    "numeroPosicion": "12",
+    "nivelUrgencia": "media",
+    "estado": "pendiente",
+    "horaRegistro": "2026-09-20T17:22:34.716Z",
+    "horaRegistroFormato": "20/09/2026 17:22:34",
+    "horaModificacion": "2026-09-20T17:22:34.716Z",
+    "horaModificacionFormato": "20/09/2026 17:22:34",
+    "solicitanteId": "usr-admin",
+    "solicitanteNombre": "Carlos Mendoza (Admin)",
+    "observaciones": "",
+    "ubicacionAlmacen": "Por asignar",
+    "historial": [
+      {
+        "id": "h-1789924954716",
+        "fecha": "2026-09-20T17:22:34.716Z",
+        "fechaFormato": "20/09/2026 17:22:34",
+        "usuario": "Carlos Mendoza (Admin)",
+        "accion": "Registro inicial",
+        "detalle": "Creado con urgencia MEDIA"
+      }
+    ]
+  },
+  {
+    "id": "res-1789922069717",
+    "numeroReserva": "123456",
+    "numeroPosicion": "1",
+    "nivelUrgencia": "media",
+    "estado": "en_proceso",
+    "horaRegistro": "2026-09-20T16:34:29.717Z",
+    "horaRegistroFormato": "20/09/2026 16:34:29",
+    "horaModificacion": "2026-09-20T16:34:46.423Z",
+    "horaModificacionFormato": "20/09/2026 16:34:46",
+    "solicitanteId": "usr-solicitante-1",
+    "solicitanteNombre": "Lucía Torres (Solicitante)",
+    "observaciones": "",
+    "ubicacionAlmacen": "Condenseria",
+    "historial": [
+      {
+        "id": "h-1789922086423",
+        "fecha": "2026-09-20T16:34:46.423Z",
+        "fechaFormato": "20/09/2026 16:34:46",
+        "usuario": "Martín Paredes (Despachador)",
+        "accion": "Cambio de estado: PENDIENTE → EN_PROCESO",
+        "detalle": "Estado cambiado a EN_PROCESO"
+      },
+      {
+        "id": "h-1789922069717",
+        "fecha": "2026-09-20T16:34:29.717Z",
+        "fechaFormato": "20/09/2026 16:34:29",
+        "usuario": "Lucía Torres (Solicitante)",
+        "accion": "Registro inicial",
+        "detalle": "Creado con urgencia MEDIA"
+      }
+    ],
+    "despachadorId": "usr-despachador-1",
+    "despachadorNombre": "Martín Paredes (Despachador)"
+  }
+]
